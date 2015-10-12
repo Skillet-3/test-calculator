@@ -1,7 +1,7 @@
-package bsu;
+package com.epam;
 
 
-class CalcUtil {
+public class CalcUtil {
 
     public static double sum(double paramX,double paramY){
         return paramX+paramY;
